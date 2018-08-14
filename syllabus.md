@@ -21,7 +21,7 @@ title: Syllabus
 **Location:** KEC118<br>
 **Webpage:**  [https://ycpcs.github.io/cs481-fall2018-101/](https://ycpcs.github.io/cs481-fall2018-101/)
 
-**Instructors**
+**Instructor**
 
 >[James Moscola](http://faculty.ycp.edu/~jmoscola/)<br>
 **Email:** <jmoscola@ycp.edu><br>
