@@ -20,7 +20,7 @@ This is a **Team** assignment.
 
 Your task is to complete a final report documenting your project, and to give a presentation on the project. Our expectations for the report are described in the [Final Report Details](finalreport.html) document.
 
-We **strongly encourage** you to make an appointment and visit the [Writing Center in the Center for Teaching and Learning](http://www.ycp.edu/offices-and-services/center-for-teaching-and-learning/writing-center/) to get help from a writing tutor. Bring your document with you!
+You are **strongly encouraged** to make an appointment and visit the [Writing Center in the Center for Teaching and Learning](http://www.ycp.edu/offices-and-services/center-for-teaching-and-learning/writing-center/) to get help from a writing tutor. Bring your document with you!
 
 ### Presentation Guidelines
 
@@ -28,7 +28,7 @@ Your group will give a presentation of about 15 minutes, leaving 5 minutes for a
 
 You should use some presentation software such as Keynote, PowerPoint, or a Google presentation. Your slides should contain brief bulleted points. They should not be a "wall of text". Use animations sparingly. DO NOT USE SOUND EFFECTS!!!
 
-**Please rehearse your presentation!** We can't allow any presentation to go over its allotted time. You may wish to have a few notecards for reference. However, you should not read directly from your notecards or from your slides. This makes for a very boring and painful presentation.
+**Please rehearse your presentation!** A presentations will no be permitted to exceed its allotted time. You may wish to have a few notecards for reference. However, you should not read directly from your notecards or from your slides. This makes for a very boring and painful presentation.
 
 Keep in mind that the audience for your presentation consists of students and faculty in CS and Engineering. Don't assume that the audience knows anything about your specific project. However, you can assume that the audience is reasonably knowledgeable about computers, software, etc.
 
@@ -78,7 +78,7 @@ Your assignment grade will be determined as follows:
 
 # Submitting
 
-Submit the draft report as a **shared Google Doc** with both of your instructors.
-We will make comments directly in your shared document.
+Submit the draft report as a **shared Google Doc** with your instructor[s].
+Comments will be added directly in to shared document.
 
-Submit the final report **in PDF format** via email to both of your instructors.
+Submit the final report **in PDF format** via email to your instructor[s].

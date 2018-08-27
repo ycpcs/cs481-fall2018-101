@@ -33,9 +33,9 @@ Write a 1 to 2 page report describing the project. The report should include the
 
 Use diagrams as appropriate to convey this information clearly.
 
-### Please Talk To Us!
+### Please Talk To Your Instructor[s]!
 
-We **strongly** encourage you to meet with us to discuss project ideas before you submit your formal project proposal.
+You are **strongly** encouraged to meet with your instructor[s] to discuss project ideas before you submit your formal project proposal.
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
@@ -45,7 +45,7 @@ We **strongly** encourage you to meet with us to discuss project ideas before yo
 
 Your second task is to create a main repository for your project on [GitHub](https://github.com).
 
-You should add all of your team members as contributors to the repository.  Also, add the instructors (GitHub users [jmoscola](https://github.com/jmoscola) and [daveho](https://github.com/daveho)) as contributors.
+You should add all of your team members as contributors to the repository.  Also, add your instructor[s] (GitHub user [jmoscola](https://github.com/jmoscola)) to the list of contributors.
 
 In the issue tracker for the main repository, create three labels:
 
@@ -83,7 +83,7 @@ Please note that you aren't required to use one of the PCs: you can use your own
 * Repository setup:
 
   - Repository created: **10%**
-  - Members and instructors added as contributors: **5%**
+  - Members and instructor[s] added as contributors: **5%**
   - Categories created in issue tracker: **10%**
 
 * Physical space setup: **15%**
@@ -94,4 +94,4 @@ Please note that you aren't required to use one of the PCs: you can use your own
 
 # Submitting
 
-To submit, share your Google doc with the instructors.
+To submit, share your Google doc with the instructor[s].

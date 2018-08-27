@@ -10,13 +10,15 @@ title: Weekly Progress Demos
 
 # Expectations for Weekly Demos
 
-Here are what we would like to see from you for the weekly (Monday) demos.
+Here is what the instructor[s] would like to see from you for the weekly (Monday) demos.
 
 
 ## Journal entries (individual)
 
-Each team member should have an issue in the group's issue tracker.  Each week, each team member should add at least one comment to this issue to document his or her work for the week.  
-Each weekly entry should contain a list of the following:
+Each team member should have a **SINGLE** issue in the group's issue tracker dedicated to documenting that team member's
+progress.  Each week, each team member should add at least one comment to this "issue" to document his or her work for the week.
+  
+Each weekly journal entry should also contain a list of the following:
 
 * Links to issues that were created/opened by you 
 * Links to issues that were closed by you
@@ -26,12 +28,12 @@ Please format your entry as a *bulleted list*.
 
 You can create a link to a commit by pasting the first 8 (or so) hex digits of its hash code.
 
-Your journal entries should be complete by midnight on Sunday (so we can use Monday morning to read your entries.)
+Your journal entries should be complete by midnight on Sunday (so they can be reviewed by the instructor[s] on Monday morning.)
 
 
 ## Demo (individual)
 
-Each class meeting, we will talk to each student *individually*.  Your job is to very briefly (1-2 minutes) demonstrate what you worked on during the previous week, and how your efforts are contributing to the overall success of the project.  When we meet with you, you should pick perhaps two or three of your most important contributions (as documented in your journal entry for the previous week).
+Each class meeting, an instructor will talk to each student *individually*. Your job is to very briefly (1-2 minutes) demonstrate what you worked on during the previous week, and how your efforts are contributing to the overall success of the project. For that demo, you should pick perhaps two or three of your most important contributions (as documented in your journal entry for the previous week).
 
 Ways that you can demonstrate progress include
 
@@ -42,7 +44,7 @@ Ways that you can demonstrate progress include
 
 # Team meeting
 
-In addition to the individual meetings, we will generally meet with each group as a whole to discuss overall progress.
+In addition to the individual meetings, overall project progress will be discussed in a brief meeting with the whole team.
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
@@ -52,6 +54,6 @@ In addition to the individual meetings, we will generally meet with each group a
 
 For each weekly demo, you (individually) will receive one of the following evaluations:
 
-* **Exceeds expectations**: We think you are making an extraordinary contribution to your project, and that overall, your team is on course to have a very strong final progress.
-* **Meets expectations**: We think you are making an adequate contribution to your project, and that your team is on track for a solid (but perhaps not exceptional) final product.
-* **Below expectations**: We are concerned that you are not making a sufficient contribution to your team's project, and that your team's final product will not meet the minimum expectations.
+* **Exceeds expectations**: You are making an extraordinary contribution to your project, and that overall, your team is on course to have a very strong final progress.
+* **Meets expectations**: You are making an adequate contribution to your project, and that your team is on track for a solid (but perhaps not exceptional) final product.
+* **Below expectations**: You are not making a sufficient contribution to your team's project, and that your team's final product will not meet the minimum expectations.
