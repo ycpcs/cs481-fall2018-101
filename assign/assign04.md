@@ -23,7 +23,7 @@ Your goal should be to create a **minimal** UML design model that will provide a
 
 Use [Violet UML](http://alexdp.free.fr/violetumleditor/page.php) to create your model.
 
-If your UML and/or OO modeling skills are rusty, **please see us**.  The ability to create a model of a system is hugely important, and potential employers are likely to ask OO modeling questions in job interviews.
+If your UML and/or OO modeling skills are rusty, **please see your instructor[s]**.  The ability to create a model of a system is hugely important, and potential employers are likely to ask OO modeling questions in job interviews.
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
@@ -45,4 +45,4 @@ Your work will be graded as follows:
 
 # Submitting
 
-Email your model to your instructors.
+Email your model to your instructor[s].
